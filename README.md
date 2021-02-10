@@ -17,11 +17,11 @@ ruby 2.6.5p114
 # 機能
 機能1 基礎代謝の算出  
 機能2 消費カロリーの算出  
-機能3 目標摂取カロリーの算出  　
+機能3 目標摂取カロリーの算出   　
 機能4 PFCバランスの算出  
 
 # インストール
 
-`% git clone https://github.com/masa-maker/calorie_app.git     
-% cd calorie_app  
-% ruby main.rb`
+`% git clone https://github.com/masa-maker/calorie_app.git`     
+`% cd calorie_app`    
+`% ruby main.rb`  
