@@ -22,6 +22,6 @@ ruby 2.6.5p114
 
 # インストール
 
-% git clone 
-% cd calorie_app
-% ruby main.rb
+`% git clone https://github.com/masa-maker/calorie_app.git<br>
+% cd calorie_app<br>
+% ruby main.rb`
